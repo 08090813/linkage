@@ -7,6 +7,8 @@
   background-color: #fff;
   z-index: 999;
   padding: 0rpx 30rpx;
+  text-align: center;
+  font-size: 28rpx;
 }
 .linkage .btns{
   width: 96%;
@@ -17,5 +19,5 @@
   font-size: 36rpx;
 }
 .linkage .btns .confirm{
-  color: #1989fa;
+  color: #05080a;
 }
